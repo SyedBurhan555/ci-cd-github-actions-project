@@ -1,7 +1,7 @@
 {
   "name": "ci-cd-github-actions",
   "private": true,
-  "homepage": "https://github.com/SyedBurhan555/ci-cd-github-actions-project",
+  "homepage": "https://github.io/SyedBurhan555/ci-cd-github-actions-project",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
